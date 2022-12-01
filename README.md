@@ -4,14 +4,14 @@
 1st December 2022
 
 ### Project Title
-Version Control of Bikeshare Python code
+Version Control of Bikeshare Python code for Udacity version control project
 
 ### Description
-The project focuses on pushing the code developed for analysing the bike share data for three countries to Git so that a proper version control of the code can be in place.
+The project focuses on adding the code developed for analysing the bike share data for three countries to Git so that a proper version control of the code can be in place.
 
 ### Files used
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All credits to UDACITY
 
