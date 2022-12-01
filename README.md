@@ -10,7 +10,7 @@ Version Control of Bikeshare Python code for Udacity version control project
 The project focuses on adding the code developed for analysing the bike share data for three countries to Git so that a proper version control of the code can be in place.
 
 ### Files used
-Include the files used
+chicago.py code is directly submitted in Udacity
 
 ### Credits
 All credits to UDACITY
